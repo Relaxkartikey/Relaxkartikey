@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Relaxkartikey</h1>
 <h3 align="center">A Student & Frontend Developer from India</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/34984526/126812572-fd218473-2f42-4c9d-81f8-59d7db3ae9a4.gif" alt="Coding" width="400" height="300"/>
-</p>
 
 ---
 
