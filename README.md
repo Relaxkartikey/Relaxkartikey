@@ -12,9 +12,27 @@
 ---
 
 ## Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40">](https://twitter.com/relaxkartikey)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">](https://linkedin.com/in/relaxkartikey)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40">](https://www.behance.net/relaxkartikey)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <a href="https://twitter.com/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="https://linkedin.com/in/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50">
+    </a>
+    <a href="https://www.behance.net/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance" width="50" height="50">
+    </a>
+    <a href="https://bento.me/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="Bento" width="50" height="50">
+    </a>
+    <a href="https://x.com/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" width="50" height="50">
+    </a>
+    <a href="https://www.buymeacoffee.com/relaxkartikey" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/?size=100&id=1LzgW8zTryyM&format=png&color=000000" alt="Buy Me a Coffee" width="50" height="50">
+    </a>
+</div>
+
 
 ---
 
