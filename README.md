@@ -1,12 +1,12 @@
-# Hi 👋, I'm @Relaxkartikey
-## A Student & Frontend Developer from India
+# Hi 👋, I'm Kartikey Sharma
+## A Developer
 
 ---
 
-- 🔭 I’m currently working on **Woocommerce and Frontend Projects**
-- 🌱 I’m currently learning **Backend Frameworks based on Js**
+- 🔭 I’m currently working on **Web3 & Next.js Projects**
+- 🌱 I’m currently learning **Mongo DB**
 - 👯 I’m looking to collaborate on **Open Source MERN**
-- 💬 Ask me about **React, CSS, HTML5, Wordpress Org, Woocommerce**
+- 💬 Ask me about **React.js, Next.js & Open SOurce**
 - 📫 How to reach me **relaxkartikey@gmail.com**
 
 ---
@@ -19,7 +19,25 @@
 ---
 
 ## Languages and Tools:
-| HTML | CSS | JavaScript | React |
-|:----:|:---:|:----------:|:-----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <br/> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <br/> CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <br/> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <br/> React |
-| ![HTML Progress](https://progress-bar.dev/90/) | ![CSS Progress](https://progress-bar.dev/55/) | ![JavaScript Progress](https://progress-bar.dev/65/) | ![React Progress](https://progress-bar.dev/30/) |
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <img src="https://img.icons8.com/?size=100&id=100819&format=png&color=FFFFFF" alt="Web3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/gemini.png" alt="Gemini AI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=45982&format=png&color=000000" alt="UI/UX" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=h6Q5RFsHCbTI&format=png&color=000000" alt="Eagle Cad" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="Adobe CC" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=tmthf8xybKpa&format=png&color=000000" alt="C++" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50" height="50"/>
+
+</div>
