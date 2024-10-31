@@ -54,7 +54,6 @@
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=gav46YArUSy1&format=png&color=000000" alt="Adobe CC" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=tmthf8xybKpa&format=png&color=000000" alt="C++" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50" height="50"/>
 
 </div>
