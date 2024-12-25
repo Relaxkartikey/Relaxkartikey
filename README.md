@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif" width="500px">
+  <img src="https://i.pinimg.com/originals/9a/17/d1/9a17d1fd9b3854fc1d7bfd24f7a374a2.gif" alt="coding animation" width="100%">
   <h1>Hi 👋, I'm Kartikey Sharma</h1>
   <h3>A Developer crafting web experiences</h3>
 </div>
