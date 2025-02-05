@@ -31,9 +31,7 @@
 ### 📊 GitHub Stats & Projects
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=relaxkartikey&theme=radical" alt="GitHub Streak"/>
   <a href="https://github.com/relaxkartikey/projects">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=relaxkartikey&repo=projects&theme=radical" />
   </a>
 </div>
 
