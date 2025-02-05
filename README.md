@@ -28,13 +28,6 @@
 ![Eagle](https://img.shields.io/badge/Eagle_CAD-0078D4.svg?style=for-the-badge&logo=eagle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-### 📊 GitHub Stats & Projects
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/relaxkartikey/projects">
-  </a>
-</div>
-
 ### 🤝 Connect with me
 <a href="https://twitter.com/relaxkartikey">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
